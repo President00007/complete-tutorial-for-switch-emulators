@@ -4,11 +4,11 @@
 ## ⚠️ THIS TUTORIAL USES NEXTENDO NETWORK ⚠️
 Be sure to visit the [official Nextendo Network site](https://nextendo.network/) and <ins>be sure to create an account in order to use online connectivity!</ins>
 
-Additionally, <ins>YOU NEED TO HAVE VERSIONS 22.5.0 OF BOTH FIRMWARE AND KEYS</ins> in order for Nextendo to work. <ins>DO NOT UPDATE THESE TO A LATER VERSION</ins>
+Additionally, <ins>YOU NEED TO HAVE VERSIONS 22.5.0 OR 23.0.1 OF BOTH FIRMWARE AND KEYS</ins> in order for Nextendo to work. <ins>DO NOT UPDATE THESE TO A LATER VERSION</ins>
 
 In this tutorial, I'll explain in detail how to fully set up your Citron emulator.
 
-If you arrived here with the emulator already set up, you can easily skip to the ["setup save" section of this readme](ATTACH LINK)
+If you arrived here with the emulator already set up, you can easily skip to the ["setup save" section of this readme](https://github.com/President00007/complete-tutorial-for-switch-emulators/blob/main/README-CITRON-NEXTENDO.md#moving-data)
 
 I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTORIAL JUST TO HELP WHO DOESN'T KNOW HOW TO SETUP THIS EMULATOR
 
